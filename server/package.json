@@ -1,1 +1,16 @@
-{"name":"daily-checkin-server","version":"1.0.0","type":"module","packageManager":"npm@11.17.0","engines":{"node":">=24"},"scripts":{"start":"node index.js","test":"node --test"},"dependencies":{"express":"^4.19.2"}}
+{
+  "name": "daily-checkin-server",
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "npm@11.17.0",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
